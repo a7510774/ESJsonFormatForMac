@@ -780,7 +780,7 @@
             //再添加把其他类的的字符串拼接到最后面
             [self.hContentTextView insertText:classInfo.classInsertTextViewContentForH replacementRange:NSMakeRange(self.hContentTextView.string.length, 0)];
         }
-        //关闭输出提示
+        //关闭输出提示 
 //        [self creatFile];
     }
 }
