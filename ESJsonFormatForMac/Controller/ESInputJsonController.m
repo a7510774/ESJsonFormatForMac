@@ -781,7 +781,7 @@
             [self.hContentTextView insertText:classInfo.classInsertTextViewContentForH replacementRange:NSMakeRange(self.hContentTextView.string.length, 0)];
         }
         
-        [self creatFile];
+//        [self creatFile];
     }
 }
 
